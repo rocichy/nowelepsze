@@ -22,7 +22,8 @@ function onet(){
 }
 
 function zmiana(){
-	$o = 'Sprawdzamy czy wysztko dzia³a'; 
+	$o = 'Sprawdzamy czy wysztko dzia³a';
+	$n = 9 +1 ; 
 }
 
 costam();
