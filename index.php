@@ -6,6 +6,12 @@ function costam(){
 	echo $cos;
 }
 
+
+function newfunkcja(){
+	$cos = 1+10;
+	return $cos;
+}
+
 function onet(){
 	return 'MEGA';
 	
