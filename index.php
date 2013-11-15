@@ -21,6 +21,10 @@ function onet(){
 	
 }
 
+function zmiana(){
+	$o = 'Sprawdzamy czy wysztko dzia³a'; 
+}
+
 costam();
 echo '<br/>';
 echo onet();
