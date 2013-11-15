@@ -15,7 +15,9 @@ function newfunkcja(){
 }
 
 function onet(){
+	$dodajemy = 'Jakies wieszke zmiany';
 	return 'MEGA';
+	
 	
 }
 
