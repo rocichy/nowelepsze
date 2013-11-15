@@ -1,6 +1,8 @@
 <?php
 
-
+/*
+ * Nowa wersja i chcia³
+ */
 function costam(){
 	$cos = 'Pomootwesdf';
 	echo $cos;
@@ -21,9 +23,6 @@ costam();
 echo '<br/>';
 echo onet();
 
-/*
- * Zmieniamuy cos na nowo zeby sprawdzic jak pobrac i mergowac tamtego comita z tym
- */
 
 /*
  * Wprowadzamy jakise zmiany
