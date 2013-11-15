@@ -20,3 +20,7 @@ function onet(){
 costam();
 echo '<br/>';
 echo onet();
+
+/*
+ * Wprowadzamy jakise zmiany
+ */
