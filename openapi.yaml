@@ -2,3 +2,13 @@ openapi: 3.0.2
 info:
   version: 1.0.0
   title: Example.com
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+  description: >
+    RDXT casasd
+paths:
+  '/users/{username}':
+    $ref: 'paths/users@{username}.yaml'
+  /echo:
+    $ref: paths/echo.yaml
